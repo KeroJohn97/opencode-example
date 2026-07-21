@@ -26,5 +26,5 @@ Thumbs.db
 .windsurf
 
 # Next.js
-web/.next/
+web/
 out/
