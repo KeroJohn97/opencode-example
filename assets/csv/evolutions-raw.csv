@@ -1,0 +1,531 @@
+prevo_name,prevo_form,evo_name,evo_form,base_evo_name,base_evo_form,method
+Bulbasaur,,Ivysaur,,Bulbasaur,,Level 16
+Ivysaur,,Venusaur,,Bulbasaur,,Level 32
+Charmander,,Charmeleon,,Charmander,,Level 16
+Charmeleon,,Charizard,,Charmander,,Level 36
+Squirtle,,Wartortle,,Squirtle,,Level 16
+Wartortle,,Blastoise,,Squirtle,,Level 36
+Caterpie,,Metapod,,Caterpie,,Level 7
+Metapod,,Butterfree,,Caterpie,,Level 10
+Weedle,,Kakuna,,Weedle,,Level 7
+Kakuna,,Beedrill,,Weedle,,Level 10
+Pidgey,,Pidgeotto,,Pidgey,,Level 18
+Pidgeotto,,Pidgeot,,Pidgey,,Level 36
+Rattata,,Raticate,,Rattata,,Level 20
+Rattata,Alolan Rattata,Raticate,Alolan Raticate,Rattata,Alolan Rattata,"Level 20, Nighttime"
+Spearow,,Fearow,,Spearow,,Level 20
+Ekans,,Arbok,,Ekans,,Level 22
+Pichu,,Pikachu,,Pichu,,high Friendship
+Pikachu,,Raichu,,Pichu,,"use Thunder Stone, outside Alola"
+Pikachu,,Raichu,Alolan Raichu,Pichu,,"use Thunder Stone, in Alola"
+Sandshrew,,Sandslash,,Sandshrew,,Level 22
+Sandshrew,Alolan Sandshrew,Sandslash,Alolan Sandslash,Sandshrew,Alolan Sandshrew,use Ice Stone
+Nidoran♀,,Nidorina,,Nidoran♀,,Level 16
+Nidorina,,Nidoqueen,,Nidoran♀,,use Moon Stone
+Nidoran♂,,Nidorino,,Nidoran♂,,Level 16
+Nidorino,,Nidoking,,Nidoran♂,,use Moon Stone
+Cleffa,,Clefairy,,Cleffa,,high Friendship
+Clefairy,,Clefable,,Cleffa,,use Moon Stone
+Vulpix,,Ninetales,,Vulpix,,use Fire Stone
+Vulpix,Alolan Vulpix,Ninetales,Alolan Ninetales,Vulpix,Alolan Vulpix,use Ice Stone
+Igglybuff,,Jigglypuff,,Igglybuff,,high Friendship
+Jigglypuff,,Wigglytuff,,Igglybuff,,use Moon Stone
+Zubat,,Golbat,,Zubat,,Level 22
+Golbat,,Crobat,,Zubat,,high Friendship
+Oddish,,Gloom,,Oddish,,Level 21
+Gloom,,Vileplume,,Oddish,,use Leaf Stone
+Gloom,,Bellossom,,Oddish,,use Sun Stone
+Paras,,Parasect,,Paras,,Level 24
+Venonat,,Venomoth,,Venonat,,Level 31
+Diglett,,Dugtrio,,Diglett,,Level 26
+Diglett,Alolan Diglett,Dugtrio,Alolan Dugtrio,Diglett,Alolan Diglett,Level 26
+Meowth,,Persian,,Meowth,,Level 28
+Meowth,Alolan Meowth,Persian,Alolan Persian,Meowth,Alolan Meowth,high Friendship
+Meowth,Galarian Meowth,Perrserker,,Meowth,Galarian Meowth,Level 28
+Psyduck,,Golduck,,Psyduck,,Level 33
+Mankey,,Primeape,,Mankey,,Level 28
+Primeape,,Annihilape,,Mankey,,Use Rage Fist 20 times
+Growlithe,,Arcanine,,Growlithe,,use Fire Stone
+Growlithe,Hisuian Growlithe,Arcanine,Hisuian Arcanine,Growlithe,Hisuian Growlithe,use Fire Stone
+Poliwag,,Poliwhirl,,Poliwag,,Level 25
+Poliwhirl,,Poliwrath,,Poliwag,,use Water Stone
+Poliwhirl,,Politoed,,Poliwag,,trade holding Kings Rock
+Abra,,Kadabra,,Abra,,Level 16
+Kadabra,,Alakazam,,Abra,,Trade
+Machop,,Machoke,,Machop,,Level 28
+Machoke,,Machamp,,Machop,,Trade
+Bellsprout,,Weepinbell,,Bellsprout,,Level 21
+Weepinbell,,Victreebel,,Bellsprout,,use Leaf Stone
+Tentacool,,Tentacruel,,Tentacool,,Level 30
+Geodude,,Graveler,,Geodude,,Level 25
+Graveler,,Golem,,Geodude,,Trade
+Geodude,Alolan Geodude,Graveler,Alolan Graveler,Geodude,Alolan Geodude,Level 25
+Graveler,Alolan Graveler,Golem,Alolan Golem,Geodude,Alolan Geodude,Trade
+Ponyta,,Rapidash,,Ponyta,,Level 40
+Ponyta,Galarian Ponyta,Rapidash,Galarian Rapidash,Ponyta,Galarian Ponyta,Level 40
+Slowpoke,,Slowbro,,Slowpoke,,Level 37
+Slowpoke,,Slowking,,Slowpoke,,trade holding Kings Rock
+Slowpoke,Galarian Slowpoke,Slowbro,Galarian Slowbro,Slowpoke,Galarian Slowpoke,use Galarica Cuff
+Slowpoke,Galarian Slowpoke,Slowking,Galarian Slowking,Slowpoke,Galarian Slowpoke,use Galarica Wreath
+Magnemite,,Magneton,,Magnemite,,Level 30
+Magneton,,Magnezone,,Magnemite,,"use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area"
+Doduo,,Dodrio,,Doduo,,Level 31
+Seel,,Dewgong,,Seel,,Level 34
+Grimer,,Muk,,Grimer,,Level 38
+Grimer,Alolan Grimer,Muk,Alolan Muk,Grimer,Alolan Grimer,Level 38
+Shellder,,Cloyster,,Shellder,,use Water Stone
+Gastly,,Haunter,,Gastly,,Level 25
+Haunter,,Gengar,,Gastly,,Trade
+Onix,,Steelix,,Onix,,trade holding Metal Coat
+Drowzee,,Hypno,,Drowzee,,Level 26
+Krabby,,Kingler,,Krabby,,Level 28
+Voltorb,,Electrode,,Voltorb,,Level 30
+Voltorb,Hisuian Voltorb,Electrode,Hisuian Electrode,Voltorb,Hisuian Voltorb,use Leaf Stone
+Exeggcute,,Exeggutor,,Exeggcute,,"use Leaf Stone, outside Alola"
+Exeggcute,,Exeggutor,Alolan Exeggutor,Exeggcute,,"use Leaf Stone, in Alola"
+Cubone,,Marowak,,Cubone,,"Level 28, outside Alola"
+Cubone,,Marowak,Alolan Marowak,Cubone,,"Level 28, Nighttime, in Alola"
+Tyrogue,,Hitmonlee,,Tyrogue,,"Level 20, Attack > Defense"
+Tyrogue,,Hitmonchan,,Tyrogue,,"Level 20, Attack < Defense"
+Tyrogue,,Hitmontop,,Tyrogue,,"Level 20, Attack = Defense"
+Lickitung,,Lickilicky,,Lickitung,,after Rollout learned
+Koffing,,Weezing,,Koffing,,"Level 35, outside Galar"
+Koffing,,Weezing,Galarian Weezing,Koffing,,"Level 35, in Galar"
+Rhyhorn,,Rhydon,,Rhyhorn,,Level 42
+Rhydon,,Rhyperior,,Rhyhorn,,trade holding Protector
+Happiny,,Chansey,,Happiny,,"hold Oval Stone, Daytime"
+Chansey,,Blissey,,Happiny,,high Friendship
+Tangela,,Tangrowth,,Tangela,,after Ancient Power learned
+Horsea,,Seadra,,Horsea,,Level 32
+Seadra,,Kingdra,,Horsea,,trade holding Dragon Scale
+Goldeen,,Seaking,,Goldeen,,Level 33
+Staryu,,Starmie,,Staryu,,use Water Stone
+Mime Jr.,,Mr. Mime,,Mime Jr.,,"after Mimic learned, outside Galar"
+Mime Jr.,,Mr. Mime,Galarian Mr. Mime,Mime Jr.,,"after Mimic learned, in Galar"
+Mr. Mime,Galarian Mr. Mime,Mr. Rime,,Mime Jr.,,Level 42
+Scyther,,Scizor,,Scyther,,trade holding Metal Coat
+Scyther,,Kleavor,,Scyther,,use Black Augurite
+Smoochum,,Jynx,,Smoochum,,Level 30
+Elekid,,Electabuzz,,Elekid,,Level 30
+Electabuzz,,Electivire,,Elekid,,trade holding Electirizer
+Magby,,Magmar,,Magby,,Level 30
+Magmar,,Magmortar,,Magby,,trade holding Magmarizer
+Magikarp,,Gyarados,,Magikarp,,Level 20
+Eevee,,Vaporeon,,Eevee,,use Water Stone
+Eevee,,Jolteon,,Eevee,,use Thunder Stone
+Eevee,,Flareon,,Eevee,,use Fire Stone
+Eevee,,Espeon,,Eevee,,"high Friendship, Daytime"
+Eevee,,Umbreon,,Eevee,,"high Friendship, Nighttime"
+Eevee,,Leafeon,,Eevee,,"use Leaf Stone, or level up near a Mossy Rock"
+Eevee,,Glaceon,,Eevee,,"use Ice Stone, or level up near an Icy Rock"
+Eevee,,Sylveon,,Eevee,,"after Fairy-type move learned, and either ♥♥ Affection in Gen 6-7 or high friendship in Gen 8+"
+Porygon,,Porygon2,,Porygon,,trade holding Upgrade
+Porygon2,,Porygon-Z,,Porygon,,trade holding Dubious Disc
+Omanyte,,Omastar,,Omanyte,,Level 40
+Kabuto,,Kabutops,,Kabuto,,Level 40
+Munchlax,,Snorlax,,Munchlax,,high Friendship
+Dratini,,Dragonair,,Dratini,,Level 30
+Dragonair,,Dragonite,,Dratini,,Level 55
+Chikorita,,Bayleef,,Chikorita,,Level 16
+Bayleef,,Meganium,,Chikorita,,Level 32
+Cyndaquil,,Quilava,,Cyndaquil,,"Level 14, or Level 17 in Legends: Arceus"
+Quilava,,Typhlosion,,Cyndaquil,,Level 36
+Quilava,,Typhlosion,Hisuian Typhlosion,Cyndaquil,,"Level 36, in Legends: Arceus"
+Totodile,,Croconaw,,Totodile,,Level 18
+Croconaw,,Feraligatr,,Totodile,,Level 30
+Sentret,,Furret,,Sentret,,Level 15
+Hoothoot,,Noctowl,,Hoothoot,,Level 20
+Ledyba,,Ledian,,Ledyba,,Level 18
+Spinarak,,Ariados,,Spinarak,,Level 22
+Chinchou,,Lanturn,,Chinchou,,Level 27
+Togepi,,Togetic,,Togepi,,high Friendship
+Togetic,,Togekiss,,Togepi,,use Shiny Stone
+Natu,,Xatu,,Natu,,Level 25
+Mareep,,Flaaffy,,Mareep,,Level 15
+Flaaffy,,Ampharos,,Mareep,,Level 30
+Azurill,,Marill,,Azurill,,high Friendship
+Marill,,Azumarill,,Azurill,,Level 18
+Bonsly,,Sudowoodo,,Bonsly,,after Mimic learned
+Hoppip,,Skiploom,,Hoppip,,Level 18
+Skiploom,,Jumpluff,,Hoppip,,Level 27
+Aipom,,Ambipom,,Aipom,,after Double Hit learned
+Sunkern,,Sunflora,,Sunkern,,use Sun Stone
+Yanma,,Yanmega,,Yanma,,after Ancient Power learned
+Wooper,,Quagsire,,Wooper,,Level 20
+Wooper,Paldean Wooper,Clodsire,,Wooper,Paldean Wooper,Level 20
+Murkrow,,Honchkrow,,Murkrow,,use Dusk Stone
+Misdreavus,,Mismagius,,Misdreavus,,use Dusk Stone
+Wynaut,,Wobbuffet,,Wynaut,,Level 15
+Pineco,,Forretress,,Pineco,,Level 31
+Gligar,,Gliscor,,Gligar,,"hold Razor Fang, Nighttime"
+Snubbull,,Granbull,,Snubbull,,Level 23
+Sneasel,,Weavile,,Sneasel,,"hold Razor Claw, Nighttime"
+Sneasel,Hisuian Sneasel,Sneasler,,Sneasel,Hisuian Sneasel,"use Razor Claw, Daytime"
+Teddiursa,,Ursaring,,Teddiursa,,Level 30
+Ursaring,,Ursaluna,,Teddiursa,,"use Peat Block, under a full moon, in Legends: Arceus"
+Slugma,,Magcargo,,Slugma,,Level 38
+Swinub,,Piloswine,,Swinub,,Level 33
+Piloswine,,Mamoswine,,Swinub,,after Ancient Power learned
+Remoraid,,Octillery,,Remoraid,,Level 25
+Mantyke,,Mantine,,Mantyke,,with Remoraid in party
+Houndour,,Houndoom,,Houndour,,Level 24
+Phanpy,,Donphan,,Phanpy,,Level 25
+Larvitar,,Pupitar,,Larvitar,,Level 30
+Pupitar,,Tyranitar,,Larvitar,,Level 55
+Stantler,,Wyrdeer,,Stantler,,use Psyshield Bash 20 times in Agile Style
+Girafarig,,Farigiraf,,Girafarig,,after Twin Beam learned
+Dunsparce,,Dudunsparce,Two-Segment Form,Dunsparce,,after Hyper Drill learned
+Dunsparce,,Dudunsparce,Three-Segment Form,Dunsparce,,"after Hyper Drill learned, rare"
+Treecko,,Grovyle,,Treecko,,Level 16
+Grovyle,,Sceptile,,Treecko,,Level 36
+Torchic,,Combusken,,Torchic,,Level 16
+Combusken,,Blaziken,,Torchic,,Level 36
+Mudkip,,Marshtomp,,Mudkip,,Level 16
+Marshtomp,,Swampert,,Mudkip,,Level 36
+Poochyena,,Mightyena,,Poochyena,,Level 18
+Zigzagoon,,Linoone,,Zigzagoon,,Level 20
+Zigzagoon,Galarian Zigzagoon,Linoone,Galarian Linoone,Zigzagoon,Galarian Zigzagoon,Level 20
+Linoone,Galarian Linoone,Obstagoon,,Zigzagoon,Galarian Zigzagoon,"Level 35, Nighttime"
+Wurmple,,Silcoon,,Wurmple,,"Level 7, random based on personality"
+Wurmple,,Cascoon,,Wurmple,,"Level 7, random based on personality"
+Silcoon,,Beautifly,,Wurmple,,Level 10
+Cascoon,,Dustox,,Wurmple,,Level 10
+Lotad,,Lombre,,Lotad,,Level 14
+Lombre,,Ludicolo,,Lotad,,use Water Stone
+Seedot,,Nuzleaf,,Seedot,,Level 14
+Nuzleaf,,Shiftry,,Seedot,,use Leaf Stone
+Taillow,,Swellow,,Taillow,,Level 22
+Wingull,,Pelipper,,Wingull,,Level 25
+Ralts,,Kirlia,,Ralts,,Level 20
+Kirlia,,Gardevoir,,Ralts,,Level 30
+Kirlia,,Gallade,,Ralts,,"use Dawn Stone, Male"
+Surskit,,Masquerain,,Surskit,,Level 22
+Shroomish,,Breloom,,Shroomish,,Level 23
+Slakoth,,Vigoroth,,Slakoth,,Level 18
+Vigoroth,,Slaking,,Slakoth,,Level 36
+Nincada,,Ninjask,,Nincada,,Level 20
+Nincada,,Shedinja,,Nincada,,"Level 20, empty spot in party, Pokéball in bag"
+Whismur,,Loudred,,Whismur,,Level 20
+Loudred,,Exploud,,Whismur,,Level 40
+Makuhita,,Hariyama,,Makuhita,,Level 24
+Nosepass,,Probopass,,Nosepass,,level up in a Magnetic Field area
+Skitty,,Delcatty,,Skitty,,use Moon Stone
+Aron,,Lairon,,Aron,,Level 32
+Lairon,,Aggron,,Aron,,Level 42
+Meditite,,Medicham,,Meditite,,Level 37
+Electrike,,Manectric,,Electrike,,Level 26
+Budew,,Roselia,,Budew,,"high Friendship, Daytime"
+Roselia,,Roserade,,Budew,,use Shiny Stone
+Gulpin,,Swalot,,Gulpin,,Level 26
+Carvanha,,Sharpedo,,Carvanha,,Level 30
+Wailmer,,Wailord,,Wailmer,,Level 40
+Numel,,Camerupt,,Numel,,Level 33
+Spoink,,Grumpig,,Spoink,,Level 32
+Trapinch,,Vibrava,,Trapinch,,Level 35
+Vibrava,,Flygon,,Trapinch,,Level 45
+Cacnea,,Cacturne,,Cacnea,,Level 32
+Swablu,,Altaria,,Swablu,,Level 35
+Barboach,,Whiscash,,Barboach,,Level 30
+Corphish,,Crawdaunt,,Corphish,,Level 30
+Baltoy,,Claydol,,Baltoy,,Level 36
+Lileep,,Cradily,,Lileep,,Level 40
+Anorith,,Armaldo,,Anorith,,Level 40
+Feebas,,Milotic,,Feebas,,"trade holding Prism Scale, or level up with max Beauty"
+Shuppet,,Banette,,Shuppet,,Level 37
+Duskull,,Dusclops,,Duskull,,Level 37
+Dusclops,,Dusknoir,,Duskull,,trade holding Reaper Cloth
+Chingling,,Chimecho,,Chingling,,"high Friendship, Nighttime"
+Snorunt,,Glalie,,Snorunt,,Level 42
+Snorunt,,Froslass,,Snorunt,,"use Dawn Stone, Female"
+Spheal,,Sealeo,,Spheal,,Level 32
+Sealeo,,Walrein,,Spheal,,Level 44
+Clamperl,,Huntail,,Clamperl,,trade holding Deep Sea Tooth
+Clamperl,,Gorebyss,,Clamperl,,trade holding Deep Sea Scale
+Bagon,,Shelgon,,Bagon,,Level 30
+Shelgon,,Salamence,,Bagon,,Level 50
+Beldum,,Metang,,Beldum,,Level 20
+Metang,,Metagross,,Beldum,,Level 45
+Turtwig,,Grotle,,Turtwig,,Level 18
+Grotle,,Torterra,,Turtwig,,Level 32
+Chimchar,,Monferno,,Chimchar,,Level 14
+Monferno,,Infernape,,Chimchar,,Level 36
+Piplup,,Prinplup,,Piplup,,Level 16
+Prinplup,,Empoleon,,Piplup,,Level 36
+Starly,,Staravia,,Starly,,Level 14
+Staravia,,Staraptor,,Starly,,Level 34
+Bidoof,,Bibarel,,Bidoof,,Level 15
+Kricketot,,Kricketune,,Kricketot,,Level 10
+Shinx,,Luxio,,Shinx,,Level 15
+Luxio,,Luxray,,Shinx,,Level 30
+Cranidos,,Rampardos,,Cranidos,,Level 30
+Shieldon,,Bastiodon,,Shieldon,,Level 30
+Burmy,Plant Cloak,Wormadam,Plant Cloak,Burmy,Plant Cloak,"Level 20, Female, in grass"
+Burmy,Sandy Cloak,Wormadam,Sandy Cloak,Burmy,Sandy Cloak,"Level 20, Female, in caves"
+Burmy,Trash Cloak,Wormadam,Trash Cloak,Burmy,Trash Cloak,"Level 20, Female, in buildings"
+Combee,,Vespiquen,,Combee,,"Level 21, Female"
+Buizel,,Floatzel,,Buizel,,Level 26
+Cherubi,,Cherrim,,Cherubi,,Level 25
+Shellos,,Gastrodon,,Shellos,,Level 30
+Drifloon,,Drifblim,,Drifloon,,Level 28
+Buneary,,Lopunny,,Buneary,,high Friendship
+Glameow,,Purugly,,Glameow,,Level 38
+Stunky,,Skuntank,,Stunky,,Level 34
+Bronzor,,Bronzong,,Bronzor,,Level 33
+Gible,,Gabite,,Gible,,Level 24
+Gabite,,Garchomp,,Gible,,Level 48
+Riolu,,Lucario,,Riolu,,"high Friendship, Daytime"
+Hippopotas,,Hippowdon,,Hippopotas,,Level 34
+Skorupi,,Drapion,,Skorupi,,Level 40
+Croagunk,,Toxicroak,,Croagunk,,Level 37
+Finneon,,Lumineon,,Finneon,,Level 31
+Snover,,Abomasnow,,Snover,,Level 40
+Snivy,,Servine,,Snivy,,Level 17
+Servine,,Serperior,,Snivy,,Level 36
+Tepig,,Pignite,,Tepig,,Level 17
+Pignite,,Emboar,,Tepig,,Level 36
+Oshawott,,Dewott,,Oshawott,,Level 17
+Dewott,,Samurott,,Oshawott,,Level 36
+Dewott,,Samurott,Hisuian Samurott,Oshawott,,"Level 36, in Legends: Arceus"
+Patrat,,Watchog,,Patrat,,Level 20
+Lillipup,,Herdier,,Lillipup,,Level 16
+Herdier,,Stoutland,,Lillipup,,Level 32
+Purrloin,,Liepard,,Purrloin,,Level 20
+Pansage,,Simisage,,Pansage,,use Leaf Stone
+Pansear,,Simisear,,Pansear,,use Fire Stone
+Panpour,,Simipour,,Panpour,,use Water Stone
+Munna,,Musharna,,Munna,,use Moon Stone
+Pidove,,Tranquill,,Pidove,,Level 21
+Tranquill,,Unfezant,,Pidove,,Level 32
+Blitzle,,Zebstrika,,Blitzle,,Level 27
+Roggenrola,,Boldore,,Roggenrola,,Level 25
+Boldore,,Gigalith,,Roggenrola,,Trade
+Woobat,,Swoobat,,Woobat,,high Friendship
+Drilbur,,Excadrill,,Drilbur,,Level 31
+Timburr,,Gurdurr,,Timburr,,Level 25
+Gurdurr,,Conkeldurr,,Timburr,,Trade
+Tympole,,Palpitoad,,Tympole,,Level 25
+Palpitoad,,Seismitoad,,Tympole,,Level 36
+Sewaddle,,Swadloon,,Sewaddle,,Level 20
+Swadloon,,Leavanny,,Sewaddle,,high Friendship
+Venipede,,Whirlipede,,Venipede,,Level 22
+Whirlipede,,Scolipede,,Venipede,,Level 30
+Cottonee,,Whimsicott,,Cottonee,,use Sun Stone
+Petilil,,Lilligant,,Petilil,,use Sun Stone
+Petilil,,Lilligant,Hisuian Lilligant,Petilil,,"use Sun Stone, in Legends: Arceus"
+Sandile,,Krokorok,,Sandile,,Level 29
+Krokorok,,Krookodile,,Sandile,,Level 40
+Darumaka,,Darmanitan,Standard Mode,Darumaka,,Level 35
+Darumaka,Galarian Darumaka,Darmanitan,Galarian Standard Mode,Darumaka,Galarian Darumaka,use Ice Stone
+Dwebble,,Crustle,,Dwebble,,Level 34
+Scraggy,,Scrafty,,Scraggy,,Level 39
+Yamask,,Cofagrigus,,Yamask,,Level 34
+Yamask,Galarian Yamask,Runerigus,,Yamask,Galarian Yamask,near Dusty Bowl
+Tirtouga,,Carracosta,,Tirtouga,,Level 37
+Archen,,Archeops,,Archen,,Level 37
+Trubbish,,Garbodor,,Trubbish,,Level 36
+Zorua,,Zoroark,,Zorua,,Level 30
+Zorua,Hisuian Zorua,Zoroark,Hisuian Zoroark,Zorua,Hisuian Zorua,"Level 30, in Legends: Arceus"
+Minccino,,Cinccino,,Minccino,,use Shiny Stone
+Gothita,,Gothorita,,Gothita,,Level 32
+Gothorita,,Gothitelle,,Gothita,,Level 41
+Solosis,,Duosion,,Solosis,,Level 32
+Duosion,,Reuniclus,,Solosis,,Level 41
+Ducklett,,Swanna,,Ducklett,,Level 35
+Vanillite,,Vanillish,,Vanillite,,Level 35
+Vanillish,,Vanilluxe,,Vanillite,,Level 47
+Deerling,,Sawsbuck,,Deerling,,Level 34
+Karrablast,,Escavalier,,Karrablast,,Trade with Shelmet
+Foongus,,Amoonguss,,Foongus,,Level 39
+Frillish,,Jellicent,,Frillish,,Level 40
+Joltik,,Galvantula,,Joltik,,Level 36
+Ferroseed,,Ferrothorn,,Ferroseed,,Level 40
+Klink,,Klang,,Klink,,Level 38
+Klang,,Klinklang,,Klink,,Level 49
+Tynamo,,Eelektrik,,Tynamo,,Level 39
+Eelektrik,,Eelektross,,Tynamo,,use Thunder Stone
+Elgyem,,Beheeyem,,Elgyem,,Level 42
+Litwick,,Lampent,,Litwick,,Level 41
+Lampent,,Chandelure,,Litwick,,use Dusk Stone
+Axew,,Fraxure,,Axew,,Level 38
+Fraxure,,Haxorus,,Axew,,Level 48
+Cubchoo,,Beartic,,Cubchoo,,Level 37
+Shelmet,,Accelgor,,Shelmet,,Trade with Karrablast
+Mienfoo,,Mienshao,,Mienfoo,,Level 50
+Golett,,Golurk,,Golett,,Level 43
+Pawniard,,Bisharp,,Pawniard,,Level 52
+Bisharp,,Kingambit,,Pawniard,,defeat 3 Bisharp that are holding Leader's Crest
+Rufflet,,Braviary,,Rufflet,,Level 54
+Rufflet,,Braviary,Hisuian Braviary,Rufflet,,"Level 54, in Legends: Arceus"
+Vullaby,,Mandibuzz,,Vullaby,,Level 54
+Deino,,Zweilous,,Deino,,Level 50
+Zweilous,,Hydreigon,,Deino,,Level 64
+Larvesta,,Volcarona,,Larvesta,,Level 59
+Chespin,,Quilladin,,Chespin,,Level 16
+Quilladin,,Chesnaught,,Chespin,,Level 36
+Fennekin,,Braixen,,Fennekin,,Level 16
+Braixen,,Delphox,,Fennekin,,Level 36
+Froakie,,Frogadier,,Froakie,,Level 16
+Frogadier,,Greninja,,Froakie,,Level 36
+Bunnelby,,Diggersby,,Bunnelby,,Level 20
+Fletchling,,Fletchinder,,Fletchling,,Level 17
+Fletchinder,,Talonflame,,Fletchling,,Level 35
+Scatterbug,,Spewpa,,Scatterbug,,Level 9
+Spewpa,,Vivillon,,Scatterbug,,Level 12
+Litleo,,Pyroar,,Litleo,,Level 35
+Flabébé,,Floette,,Flabébé,,Level 19
+Floette,,Florges,,Flabébé,,use Shiny Stone
+Skiddo,,Gogoat,,Skiddo,,Level 32
+Pancham,,Pangoro,,Pancham,,"Level 32, Dark type Pokémon in party"
+Espurr,,Meowstic,Male,Espurr,,"Level 25, Male"
+Espurr,,Meowstic,Female,Espurr,,"Level 25, Female"
+Honedge,,Doublade,,Honedge,,Level 35
+Spritzee,,Aromatisse,,Spritzee,,trade holding Sachet
+Swirlix,,Slurpuff,,Swirlix,,trade holding Whipped Dream
+Inkay,,Malamar,,Inkay,,"Level 30, holding console upside down"
+Binacle,,Barbaracle,,Binacle,,Level 39
+Skrelp,,Dragalge,,Skrelp,,Level 48
+Clauncher,,Clawitzer,,Clauncher,,Level 37
+Helioptile,,Heliolisk,,Helioptile,,use Sun Stone
+Tyrunt,,Tyrantrum,,Tyrunt,,"Level 39, Daytime"
+Amaura,,Aurorus,,Amaura,,"Level 39, Nighttime"
+Goomy,,Sliggoo,,Goomy,,Level 40
+Goomy,,Sliggoo,Hisuian Sliggoo,Goomy,,"Level 40, in Legends: Arceus"
+Sliggoo,,Goodra,,Goomy,,"Level 50, during rain"
+Sliggoo,Hisuian Sliggoo,Goodra,Hisuian Goodra,Goomy,,"Level 50, during rain, in Legends: Arceus"
+Phantump,,Trevenant,,Phantump,,Trade
+Bergmite,,Avalugg,,Bergmite,,Level 37
+Bergmite,,Avalugg,Hisuian Avalugg,Bergmite,,"Level 37, in Legends: Arceus"
+Noibat,,Noivern,,Noibat,,Level 48
+Rowlet,,Dartrix,,Rowlet,,Level 17
+Dartrix,,Decidueye,,Rowlet,,Level 34
+Dartrix,,Decidueye,Hisuian Decidueye,Rowlet,,"Level 36, in Legends: Arceus"
+Litten,,Torracat,,Litten,,Level 17
+Torracat,,Incineroar,,Litten,,Level 34
+Popplio,,Brionne,,Popplio,,Level 17
+Brionne,,Primarina,,Popplio,,Level 34
+Pikipek,,Trumbeak,,Pikipek,,Level 14
+Trumbeak,,Toucannon,,Pikipek,,Level 28
+Yungoos,,Gumshoos,,Yungoos,,"Level 20, Daytime"
+Grubbin,,Charjabug,,Grubbin,,Level 20
+Charjabug,,Vikavolt,,Grubbin,,"use Thunder Stone, in Gen 8, or level up in a Magnetic Field area"
+Crabrawler,,Crabominable,,Crabrawler,,"use Ice Stone, or at Mount Lanakila in Alola"
+Cutiefly,,Ribombee,,Cutiefly,,Level 25
+Rockruff,,Lycanroc,Midday Form,Rockruff,,"Level 25, Daytime"
+Rockruff,,Lycanroc,Midnight Form,Rockruff,,"Level 25, Nighttime"
+Rockruff,Own Tempo Rockruff,Lycanroc,Dusk Form,Rockruff,Own Tempo Rockruff,"Level 25, Dusk"
+Mareanie,,Toxapex,,Mareanie,,Level 38
+Mudbray,,Mudsdale,,Mudbray,,Level 30
+Dewpider,,Araquanid,,Dewpider,,Level 22
+Fomantis,,Lurantis,,Fomantis,,"Level 34, Daytime"
+Morelull,,Shiinotic,,Morelull,,Level 24
+Salandit,,Salazzle,,Salandit,,"Level 33, Female"
+Stufful,,Bewear,,Stufful,,Level 27
+Bounsweet,,Steenee,,Bounsweet,,Level 18
+Steenee,,Tsareena,,Bounsweet,,after Stomp learned
+Wimpod,,Golisopod,,Wimpod,,Level 30
+Sandygast,,Palossand,,Sandygast,,Level 42
+Type: Null,,Silvally,,Type: Null,,high Friendship
+Jangmo-o,,Hakamo-o,,Jangmo-o,,Level 35
+Hakamo-o,,Kommo-o,,Jangmo-o,,Level 45
+Cosmog,,Cosmoem,,Cosmog,,Level 43
+Cosmoem,,Solgaleo,,Cosmog,,"Level 53, in Pokémon Sun or Ultra Sun"
+Cosmoem,,Lunala,,Cosmog,,"Level 53, in Pokémon Moon or Ultra Moon"
+Poipole,,Naganadel,,Poipole,,after Dragon Pulse learned
+Meltan,,Melmetal,,Meltan,,"Pokémon GO only, 400 Meltan Candies"
+Grookey,,Thwackey,,Grookey,,Level 16
+Thwackey,,Rillaboom,,Grookey,,Level 35
+Scorbunny,,Raboot,,Scorbunny,,Level 16
+Raboot,,Cinderace,,Scorbunny,,Level 35
+Sobble,,Drizzile,,Sobble,,Level 16
+Drizzile,,Inteleon,,Sobble,,Level 35
+Blipbug,,Dottler,,Blipbug,,Level 10
+Dottler,,Orbeetle,,Blipbug,,Level 30
+Rookidee,,Corvisquire,,Rookidee,,Level 18
+Corvisquire,,Corviknight,,Rookidee,,Level 38
+Skwovet,,Greedent,,Skwovet,,Level 24
+Nickit,,Thievul,,Nickit,,Level 18
+Wooloo,,Dubwool,,Wooloo,,Level 24
+Chewtle,,Drednaw,,Chewtle,,Level 22
+Yamper,,Boltund,,Yamper,,Level 25
+Gossifleur,,Eldegoss,,Gossifleur,,Level 20
+Sizzlipede,,Centiskorch,,Sizzlipede,,Level 28
+Rolycoly,,Carkol,,Rolycoly,,Level 18
+Carkol,,Coalossal,,Rolycoly,,Level 34
+Arrokuda,,Barraskewda,,Arrokuda,,Level 26
+Milcery,,Alcremie,,Milcery,,spin around holding Sweet
+Applin,,Flapple,,Applin,,use Tart Apple
+Applin,,Appletun,,Applin,,use Sweet Apple
+Applin,,Dipplin,,Applin,,use Syrupy Apple
+Dipplin,,Hydrapple,,Applin,,after Dragon Cheer learned
+Farfetch'd,Galarian Farfetch'd,Sirfetch'd,,Farfetch'd,Galarian Farfetch'd,achieve 3 critical hits in one battle
+Corsola,Galarian Corsola,Cursola,,Corsola,Galarian Corsola,Level 38
+Impidimp,,Morgrem,,Impidimp,,Level 32
+Morgrem,,Grimmsnarl,,Impidimp,,Level 42
+Hatenna,,Hattrem,,Hatenna,,Level 32
+Hattrem,,Hatterene,,Hatenna,,Level 42
+Cufant,,Copperajah,,Cufant,,Level 34
+Toxel,,Toxtricity,Amped Form,Toxel,,"Level 30, with an amped Nature"
+Toxel,,Toxtricity,Low Key Form,Toxel,,"Level 30, with a low key Nature"
+Silicobra,,Sandaconda,,Silicobra,,Level 36
+Sinistea,,Polteageist,,Sinistea,,use Cracked Pot
+Snom,,Frosmoth,,Snom,,"high Friendship, Nighttime"
+Clobbopus,,Grapploct,,Clobbopus,,after Taunt learned
+Dreepy,,Drakloak,,Dreepy,,Level 50
+Drakloak,,Dragapult,,Dreepy,,Level 60
+Kubfu,,Urshifu,Single Strike Style,Kubfu,,"use Scroll Of Darkness, or in Tower of Darkness in Galar"
+Kubfu,,Urshifu,Rapid Strike Style,Kubfu,,"use Scroll Of Waters, or in Tower of Water in Galar"
+Basculin,White-Striped Form,Basculegion,Male,Basculin,White-Striped Form,"Male, receive 294 recoil damage in battle"
+Basculin,White-Striped Form,Basculegion,Female,Basculin,White-Striped Form,"Female, receive 294 recoil damage in battle"
+Qwilfish,Hisuian Qwilfish,Overqwil,,Qwilfish,Hisuian Qwilfish,use Barb Barrage 20 times in Strong Style
+Duraludon,,Archaludon,,Duraludon,,use Metal Alloy
+Sprigatito,,Floragato,,Sprigatito,,Level 16
+Floragato,,Meowscarada,,Sprigatito,,Level 36
+Fuecoco,,Crocalor,,Fuecoco,,Level 16
+Crocalor,,Skeledirge,,Fuecoco,,Level 36
+Quaxly,,Quaxwell,,Quaxly,,Level 16
+Quaxwell,,Quaquaval,,Quaxly,,Level 36
+Lechonk,,Oinkologne,Male,Lechonk,,"Level 18, Male"
+Lechonk,,Oinkologne,Female,Lechonk,,"Level 18, Female"
+Tarountula,,Spidops,,Tarountula,,Level 15
+Nymble,,Lokix,,Nymble,,Level 24
+Rellor,,Rabsca,,Rellor,,"walk 1,000 steps in Let's Go mode"
+Greavard,,Houndstone,,Greavard,,"Level 30, Nighttime"
+Flittle,,Espathra,,Flittle,,Level 35
+Wiglett,,Wugtrio,,Wiglett,,Level 26
+Finizen,,Palafin,Zero Form,Finizen,,"Level 38, while in multiplayer"
+Smoliv,,Dolliv,,Smoliv,,Level 25
+Dolliv,,Arboliva,,Smoliv,,Level 35
+Capsakid,,Scovillain,,Capsakid,,use Fire Stone
+Tadbulb,,Bellibolt,,Tadbulb,,use Thunder Stone
+Varoom,,Revavroom,,Varoom,,Level 40
+Tandemaus,,Maushold,Family of Three,Tandemaus,,"Level 25, rare"
+Tandemaus,,Maushold,Family of Four,Tandemaus,,Level 25
+Cetoddle,,Cetitan,,Cetoddle,,use Ice Stone
+Frigibax,,Arctibax,,Frigibax,,Level 35
+Arctibax,,Baxcalibur,,Frigibax,,Level 54
+Pawmi,,Pawmo,,Pawmi,,Level 18
+Pawmo,,Pawmot,,Pawmi,,"walk 1,000 steps in Let's Go mode"
+Wattrel,,Kilowattrel,,Wattrel,,Level 25
+Nacli,,Naclstack,,Nacli,,Level 24
+Naclstack,,Garganacl,,Nacli,,Level 38
+Glimmet,,Glimmora,,Glimmet,,Level 35
+Shroodle,,Grafaiai,,Shroodle,,Level 28
+Fidough,,Dachsbun,,Fidough,,Level 26
+Maschiff,,Mabosstiff,,Maschiff,,Level 30
+Bramblin,,Brambleghast,,Bramblin,,"walk 1,000 steps in Let's Go mode"
+Gimmighoul,Chest Form,Gholdengo,,Gimmighoul,Chest Form,collect 999 Coins from Roaming Form
+Tinkatink,,Tinkatuff,,Tinkatink,,Level 24
+Tinkatuff,,Tinkaton,,Tinkatink,,Level 38
+Charcadet,,Armarouge,,Charcadet,,use Auspicious Armor
+Charcadet,,Ceruledge,,Charcadet,,use Malicious Armor
+Toedscool,,Toedscruel,,Toedscool,,Level 30
+Poltchageist,,Sinistcha,,Poltchageist,,use Unremarkable Teacup
+Pumpkaboo,Small Size,Gourgeist,Small Size,Pumpkaboo,Small Size,Trade
+Pumpkaboo,Average Size,Gourgeist,Average Size,Pumpkaboo,Average Size,Trade
+Pumpkaboo,Large Size,Gourgeist,Large Size,Pumpkaboo,Large Size,Trade
+Pumpkaboo,Super Size,Gourgeist,Super Size,Pumpkaboo,Super Size,Trade
+Doublade,,Aegislash,Shield Forme,Honedge,,use Dusk Stone
+Doublade,,Aegislash,Blade Forme,Honedge,,use Dusk Stone
+Burmy,Plant Cloak,Mothim,,Burmy,Plant Cloak,"Level 20, Male"
+Burmy,Sandy Cloak,Mothim,,Burmy,Sandy Cloak,"Level 20, Male"
+Burmy,Trash Cloak,Mothim,,Burmy,Trash Cloak,"Level 20, Male"
