@@ -25,6 +25,12 @@ Thumbs.db
 .trae
 .windsurf
 
+# OpenCode
+.opencode/node_modules
+.opencode/package.json
+.opencode/package-lock.json
+.opencode/bun.lock
+
 # Next.js
 web/
 out/
