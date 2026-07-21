@@ -1,3 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
 
 # InsForge & AI agent skills
 .insforge
@@ -13,3 +24,7 @@
 .roo
 .trae
 .windsurf
+
+# Next.js
+web/.next/
+out/
