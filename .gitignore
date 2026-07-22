@@ -32,5 +32,4 @@ Thumbs.db
 .opencode/bun.lock
 
 # Next.js
-web/
 out/
