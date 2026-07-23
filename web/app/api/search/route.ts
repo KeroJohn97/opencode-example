@@ -41,7 +41,7 @@ export async function POST(request: Request) {
     const result = await model.embedContent(query);
     const embedding = result.embedding.values;
 
-    const rpcUrl = `${INSFORGE_URL}/rest/v1/rpc/match_pokemon`;
+    const rpcUrl = `${INSFORGE_URL}/api/database/rpc/match_pokemon`;
     const rpcRes = await fetch(rpcUrl, {
       method: "POST",
       headers: {
@@ -65,17 +65,18 @@ export async function POST(request: Request) {
       );
     }
 
-    const { data, error } = await rpcRes.json();
+    const json = await rpcRes.json();
 
-    if (error) {
-      console.error(`[search] match_pokemon error:`, error);
+    if (json.error) {
+      console.error(`[search] match_pokemon error:`, json.error);
       return NextResponse.json(
-        { error: error.message ?? "RPC returned an error" },
+        { error: json.error.message ?? "RPC returned an error" },
         { status: 500 }
       );
     }
 
-    const ids = (data as MatchResult[]).map((r) => r.pokemon_id);
+    const results: MatchResult[] = Array.isArray(json) ? json : json.data ?? [];
+    const ids = results.map((r) => r.pokemon_id);
     return NextResponse.json({ ids });
   } catch (err) {
     console.error("[search] Unhandled error:", err);
