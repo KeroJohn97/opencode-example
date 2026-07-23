@@ -26,7 +26,6 @@ export function PokedexClient({
   useEffect(() => {
     const q = search.trim();
     if (q.length < 3) {
-      setSemanticIds(null);
       return;
     }
 

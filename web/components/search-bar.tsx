@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef } from "react";
 import { PokemonType } from "@/lib/types";
 import { TYPE_COLORS } from "@/lib/pokemon-colors";
 
